@@ -98,3 +98,20 @@ For this part of the assignment, complete the following steps:
 ​
 2. Screenshots for the Voila library:
 
+(![Voila1](https://github.com/HilaryWillis/ETF_Portfolio/blob/main/Screenshot%20(12).png))
+
+(![Voila2](https://github.com/HilaryWillis/ETF_Portfolio/blob/main/Screenshot%20(13).png))
+
+(![Voila3](https://github.com/HilaryWillis/ETF_Portfolio/blob/main/Screenshot%20(14).png))
+
+(![Voila4](https://github.com/HilaryWillis/ETF_Portfolio/blob/main/Screenshot%20(14).png))
+
+(![Voila5](https://github.com/HilaryWillis/ETF_Portfolio/blob/main/Screenshot%20(16).png))
+
+(![Voila6](https://github.com/HilaryWillis/ETF_Portfolio/blob/main/Screenshot%20(17).png))
+
+(![Voila7](https://github.com/HilaryWillis/ETF_Portfolio/blob/main/Screenshot%20(18).png))
+
+(![Voila8](https://github.com/HilaryWillis/ETF_Portfolio/blob/main/Screenshot%20(19).png))
+
+(![Voila9](https://github.com/HilaryWillis/ETF_Portfolio/blob/main/Screenshot%20(20).png))
